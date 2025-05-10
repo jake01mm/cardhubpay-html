@@ -1,0 +1,32 @@
+[
+  {
+    "brand": "Steam",
+    "rates": [
+      { "name": "USA $100", "value": "₦1110 per $" },
+      { "name": "UK £50", "value": "₦960 per £" },
+      { "name": "Canada $100", "value": "₦1050 per $" }
+    ]
+  },
+  {
+    "brand": "Apple iTunes",
+    "rates": [
+      { "name": "USA $100", "value": "₦1155 per $" },
+      { "name": "UK £25", "value": "₦950 per £" },
+      { "name": "EU €100", "value": "₦1030 per €" }
+    ]
+  },
+  {
+    "brand": "Razer Gold",
+    "rates": [
+      { "name": "USA $50", "value": "₦1085 per $" },
+      { "name": "SEA", "value": "₦1000 per $" }
+    ]
+  },
+  {
+    "brand": "Xbox",
+    "rates": [
+      { "name": "USA $50", "value": "₦1040 per $" },
+      { "name": "UK £25", "value": "₦935 per £" }
+    ]
+  }
+]
